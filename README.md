@@ -2,7 +2,7 @@
 <h1 align="left">Hi 👋, I'm Chathurya Nanayakara</h1>
 <h3 align="left">A passionate software developer from SriLanka</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mhmdaathif&label=Profile%20views&color=0e75b6&style=flat" alt="mhmdaathif" /> </p>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/eb244bb9f26b2568771873becaf4f4359e3af0957f3995b32c5fa166bfbbf9ca/68747470733a2f2f766f696775652e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f30362f3130353636382d7669727475616c2d617373697374616e742e676966"
 
 
                                                                                                                                                                                                                                                                           
