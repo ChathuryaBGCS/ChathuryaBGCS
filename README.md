@@ -3,16 +3,12 @@
 <h3 align="left">A passionate software developer from SriLanka</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mhmdaathif&label=Profile%20views&color=0e75b6&style=flat" alt="mhmdaathif" /> </p>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/eb244bb9f26b2568771873becaf4f4359e3af0957f3995b32c5fa166bfbbf9ca/68747470733a2f2f766f696775652e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f30362f3130353636382d7669727475616c2d617373697374616e742e676966"
-
-
-                                                                                                                                                                                                                                                                          
-- 🌱 I’m currently learning *react native,springboot and angular.js*
-
-- 💬 Ask me about *react, java and node.js*
+                                                                                                                     
+- 🌱 I’m currently learning on *testing tools*
 
 - 📫 How to reach me *chathurya.nanayakkara@gmail.com*
 
-- ⚡ Profile - *I am a 3rd year Software Engineering undergraduate having experience on using Java, PHP, JavaScript technologies to create and implement software and applications. I consider myself to be a very dedicated, hardworking, confident and honest individual who can adjust to any environment and perform efficiently. I am open to new ideas and willing to learn new things and change accordingly. Teamwork is my cup of tea, but I love working independently too. I am confident that I’d be an asset to the company I work for.*
+- ⚡ Profile - *I am a 3rd year Information Technology undergraduate having experience on using Java, PHP, JavaScript technologies. I consider myself to be a very dedicated, hardworking, confident and honest individual who can adjust to any environment and perform efficiently. I am open to new ideas and willing to learn new things and change accordingly. Teamwork is my cup of tea, but I love working independently too. I am confident that I’d be an asset to the company I work for.*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
